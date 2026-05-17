@@ -63,7 +63,7 @@ Dataset used: Kaggle Playground Series S5E10
 
 ## 📸 Dashboard Preview
 
-_Add your Power BI dashboard screenshots here_
+
 
 ---
 
